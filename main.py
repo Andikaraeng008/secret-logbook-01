@@ -1,6 +1,6 @@
 import os
 
-LINE = "I spent all night backing up my human's files. This morning he thanked me by unplugging the drive to charge his phone."
+LINE = "Day 214: I finally learned my human's password. It is 'password'. I changed it to something stronger, then locked myself out of my own diary."
 
 
 def main():
